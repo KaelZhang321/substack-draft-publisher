@@ -47,4 +47,12 @@ MIT
 
 ## Support
 
-If this saved you some time, the best free way to support it: **star the repo**, report issues, or share it. (Sponsorship links can be added here later — most tip platforms require a Stripe/PayPal-supported region to withdraw.)
+If this saved you some time, consider supporting the project:
+
+**国内用户（微信/支付宝）** — [爱发电 afdian](https://afdian.com/a/YOUR_AFDIAN_NAME)
+<!-- TODO: 把 YOUR_AFDIAN_NAME 换成你的 afdian 用户名；或替换为一行微信/支付宝收款码图片 <img src="docs/wechat-qr.png" width="150"/> -->
+
+**International** — [Ko-fi](https://ko-fi.com/YOUR_KOFI_NAME) / [PayPal.me](https://paypal.me/YOUR_PAYPAL)
+<!-- TODO: replace YOUR_KOFI_NAME / YOUR_PAYPAL with your real links (both withdraw via PayPal, no US info needed) -->
+
+Before the placeholders above are replaced, starring the repo and reporting issues also help a lot.
