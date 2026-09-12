@@ -42,3 +42,13 @@ See [SKILL.md](SKILL.md) — including how to self-verify drafts with headless C
 ## License
 
 MIT
+
+---
+
+## Support
+
+If this saved you some time, consider buying me a coffee:
+
+<a href="https://www.buymeacoffee.com/kaelzhang"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=%E2%98%95&slug=kaelzhang&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me a Coffee" width="200" /></a>
+
+Or via the GitHub **Sponsor** button at the top of the repo (configured in `.github/FUNDING.yml`).
